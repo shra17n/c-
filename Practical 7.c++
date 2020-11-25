@@ -15,8 +15,8 @@ int main()
    Student std; 
 
 
-   std.rollNo = 20; 
-   std.stdName = "komal gupta"; 
+   std.rollNo = 62; 
+   std.stdName = "shravan tawade"; 
    std.Branch = "EXTC"; 
 
       cout << "Student's Roll No.: " << std.rollNo << "\n"; 
